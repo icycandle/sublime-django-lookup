@@ -2,9 +2,7 @@
   <content><![CDATA[
 ${1:field}__day=${2:30}, $3
 ]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>__d</tabTrigger>
   <description>__day lookup</description>
-  <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <scope>meta.function-call.arguments.python</scope>
 </snippet>
