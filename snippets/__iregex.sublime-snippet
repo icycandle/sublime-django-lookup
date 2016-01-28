@@ -1,7 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
   <content><![CDATA[
-$1__iregex=$2, $3
+${1:field}__iregex=${2:r'${3:^reg-exp\$}'}, $4
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>__ir</tabTrigger>

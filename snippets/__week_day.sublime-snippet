@@ -1,7 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
   <content><![CDATA[
-$1__week_day=$2, $3
+${1:field}__week_day=${2:7}, $3
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>__w</tabTrigger>

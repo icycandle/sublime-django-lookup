@@ -1,7 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
   <content><![CDATA[
-$1__range=$2, $3
+${1:field}__range=(${2:start_value}, ${3:end_value}), $4
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>__r</tabTrigger>
