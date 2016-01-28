@@ -2,7 +2,7 @@
 
 ## Trigger Table
 
-These snippet's scope is `meta.function-call.arguments.python`, so they will only trigger in function call's parenthesis. Won't mess up with other python meta method snippets like `__init__` :)
+These snippet's scope is `meta.function-call.arguments.python`, so they will only trigger in function call's parenthesis `()`, instead of mess up with other python meta method snippets like `__init__`.
 
 | Trigger | Lookup |
 |---|---|
