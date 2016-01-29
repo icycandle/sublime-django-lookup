@@ -1,7 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
   <content><![CDATA[
-$1__lt=$2, $3
+${1:field}__lt=${2:0}, $3
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>__l</tabTrigger>

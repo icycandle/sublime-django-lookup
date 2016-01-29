@@ -1,10 +1,9 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
   <content><![CDATA[
-$1__regex=$2, $3
+${1:field}__regex=${2:r'${3:^reg-exp\$}'}, $4
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>__r</tabTrigger>
+  <tabTrigger>__re</tabTrigger>
   <description>__regex lookup</description>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <scope>meta.function-call.arguments.python</scope>
