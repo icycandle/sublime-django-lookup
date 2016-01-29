@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-${1:field}__second=${2:59}, $3
+${1:field}__second=${2:0-59}, $3
 ]]></content>
   <tabTrigger>__sec</tabTrigger>
   <description>__second lookup</description>

@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-${1:field}__week_day=${2:7}, $3
+${1:field}__week_day=${2:Sun_as_1_Sat_as_7}, $3
 ]]></content>
   <tabTrigger>__w</tabTrigger>
   <description>__week_day lookup</description>

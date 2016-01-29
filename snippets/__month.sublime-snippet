@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-${1:field}__month=${2:12}, $3
+${1:field}__month=${2:1-12}, $3
 ]]></content>
   <tabTrigger>__mon</tabTrigger>
   <description>__month lookup</description>

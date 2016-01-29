@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-${1:field}__day=${2:30}, $3
+${1:field}__day=${2:1-31}, $3
 ]]></content>
   <tabTrigger>__d</tabTrigger>
   <description>__day lookup</description>
