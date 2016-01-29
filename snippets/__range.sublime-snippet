@@ -2,9 +2,7 @@
   <content><![CDATA[
 ${1:field}__range=(${2:start_value}, ${3:end_value}), $4
 ]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>__r</tabTrigger>
   <description>__range lookup</description>
-  <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <scope>meta.function-call.arguments.python</scope>
 </snippet>

@@ -2,9 +2,7 @@
   <content><![CDATA[
 ${1:field}__exact=${2:None}, $3
 ]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>__e</tabTrigger>
   <description>__exact lookup</description>
-  <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <scope>meta.function-call.arguments.python</scope>
 </snippet>
