@@ -1,5 +1,7 @@
 # sublime-django-lookup
 
+![demo.gif](https://raw.github.com/icycandle/sublime-django-lookup/master/demo.gif)
+
 ## Trigger Table
 
 These snippet's scope is `meta.function-call.arguments.python`, so they will only trigger in function call's parenthesis `()`, instead of mess up with other python meta method snippets like `__init__`.
